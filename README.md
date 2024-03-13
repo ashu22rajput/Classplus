@@ -1,6 +1,6 @@
-# txt uploader
+yo# txt uploader
 
-# 𝙱𝚘𝚝 𝚖𝚊𝚍𝚎 𝚋𝚢 𝐒тυввσяη❤️
+# 𝙱𝚘𝚝 𝚖𝚊𝚍𝚎 𝚋𝚢 ASHISH RAJPUT 🇮🇳
 
 
 ## DEPLOY TO HEROKU
